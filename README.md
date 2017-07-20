@@ -1,6 +1,6 @@
 # Kafka-SparkStreaming Pilot
 
-#* This Application is just data ingestion tools from Apache Kafka to HDFS
+This Application is just data ingestion tools from Apache Kafka to HDFS
 1. Development Environments
 - Langauage: Scala 2.11.8
 - Framework
